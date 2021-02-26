@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F8A4-64D4
+
+ Directory of C:\Users\I543344\OneDrive - SAP SE\Tools\Git
+
+27-02-2021  04:13    <DIR>          .
+27-02-2021  04:13    <DIR>          ..
+27-02-2021  04:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  439,785,107,456 bytes free
